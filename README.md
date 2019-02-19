@@ -1,4 +1,4 @@
-# Rack Responses Lab
+lear# Rack Responses Lab
 
 Let's create a quick time appropriate greeter application
 
